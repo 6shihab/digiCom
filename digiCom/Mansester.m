@@ -28,4 +28,4 @@ end
 plot(t,y);
 axis([0,N,-1.5,1.5]); %Axis set-up
 grid on;
-title("Unipolar NZR Signaling");
+title("Manchester Coding");
