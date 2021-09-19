@@ -24,3 +24,6 @@ plot(t,y);
 axis([0,N,-1.5,1.5]); %Axis set-up
 grid on;
 title("Unipolar NZR Signaling");
+for i=1:length(x)
+  text(i-0.5,1.3,num2str(x(i));
+end
